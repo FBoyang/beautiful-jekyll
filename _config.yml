@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: I'm Boyang Fu :)
 
 # Short description of your site
 description: Welcome to my webpage! If you want to know more about me, this is *the* place
@@ -72,7 +72,8 @@ author:
 social-network-links:
   rss: true
   email: "fbyang1995@gmail.com"
-  github: https://github.com/FBoyang
+  github: FBoyang
+  linkedin: boyang-fu
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -89,8 +90,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
