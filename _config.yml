@@ -24,6 +24,7 @@ description: Welcome to my webpage! If you want to know more about me, this is *
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "CV"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
