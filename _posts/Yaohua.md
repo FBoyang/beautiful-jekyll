@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Tianjin Yaohua High School
 image: /img/yaohua.png
 share-img: /img/yaohua.png
